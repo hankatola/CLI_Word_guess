@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/hankatola/CLI_Word_guess/issues"
   },
-  "homepage": "https://github.com/hankatola/CLI_Word_guess#readme"
+  "homepage": "https://github.com/hankatola/CLI_Word_guess#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2",
+    "moment": "^2.24.0"
+  }
 }
